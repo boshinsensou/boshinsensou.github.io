@@ -29,3 +29,6 @@ Alliance (temporaire) de la province de Satsuma et des vassaux du Shōgun pour p
 - 1er décembre 1868 : Stationnement de la flotte de Enomoto à Miyako.
 - 3 décembre 1868 : Arrivée de la flotte de Enomoto à Ezo. Débarquement à Washinoki dans la baie de Uchiura.
 - 6 décembre 1868 : …
+- 8 décembre 1868 : Les partisans du Shōgun prennent la ville de Hakodate sans effusion de sang.
+- 11 décembre 1868 : les partisans du Shōgun prennent la ville de Matsumae
+- 25 décembre 1868 : élection de Takeaki Enomoto en tant que président de la république d’Ezo
