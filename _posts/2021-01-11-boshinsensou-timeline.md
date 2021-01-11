@@ -1,6 +1,5 @@
 # Chronologie de la guerre de Boshin
 
-## Légendes
 
 - 20 août 1864 : Kinmon no hen : tentative de kidnapping de l’Empereur par le domaine Chōshū.
 Alliance (temporaire) de la province de Satsuma et des vassaux du Shōgun pour protéger le palais impérial.
@@ -23,8 +22,6 @@ Alliance (temporaire) de la province de Satsuma et des vassaux du Shōgun pour p
 - 8 Mars retrait à Yokohama de la mission
 - 14 septembre 1868 : annulation officielle de la mission
 - 4 Octobre 1868 : lettre de démission de Brunet. Accompagné de Cazeneuve. Départ pour Shinagawa avec Enomoto Takeaki ?
-
-
 - 25 octobre 1868 : Débarquement à Sendaï de Brunet, Cazeneuve et Enomoto. Marlin, Bouffier et Fortant les ont rejoints aprés 300 km de marche, de Yokohama jusqu’à Sendaï.
 - 26 octobre 1868 : ?
 - 23 novembre 1868 : Départ de la flotte de Enomoto de Sendaï.
