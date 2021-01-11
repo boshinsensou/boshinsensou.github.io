@@ -32,3 +32,5 @@ Alliance (temporaire) de la province de Satsuma et des vassaux du Shōgun pour p
 - 8 décembre 1868 : Les partisans du Shōgun prennent la ville de Hakodate sans effusion de sang.
 - 11 décembre 1868 : les partisans du Shōgun prennent la ville de Matsumae
 - 25 décembre 1868 : élection de Takeaki Enomoto en tant que président de la république d’Ezo
+- 28 décembre 1868 : naufrage du Kaiyō Maru (navire le plus puissant des partisans du Shōgun)
+- 21 janvier 1869 : L’armée impériale prend connaissance du naufrage du Kaiyō Maru.
